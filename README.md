@@ -1,11 +1,15 @@
 <figure class="half">
     <img src="https://user-images.githubusercontent.com/91285129/180361388-c308f65a-bf4a-4a46-9b4b-4d8fc0ddb48f.gif" aling='left'>
     <img src="https://user-images.githubusercontent.com/91285129/180357574-e537887b-4acc-4f9a-9b6c-2edbfe5ae01d.gif" aling='right'>
-figure>
+<figure>
 
 <table>
   <tr>
     <td><img alt="" src=https://user-images.githubusercontent.com/91285129/180361388-c308f65a-bf4a-4a46-9b4b-4d8fc0ddb48f.gif /></td><td><img alt="" src=https://user-images.githubusercontent.com/91285129/180357574-e537887b-4acc-4f9a-9b6c-2edbfe5ae01d.gif /></td>
+    <td style="border-top: none;"></td>
+    <td style="border-bottom: none;"></td>
+    <td style="border-left: none;"></td>
+    <td style="border-right: none;"></td>
   <tr>
 </table>
 
